@@ -3,4 +3,4 @@ sudo: false
 script:
  - "mvn -f Ders4Proje/pom.xml clean install"
  jdk:
- - oraclejdk8
+  - oraclejdk8
